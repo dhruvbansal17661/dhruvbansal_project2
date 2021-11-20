@@ -1,0 +1,26 @@
+/*#help{
+	height: 200px;
+}
+
+.thumbnail img{
+	width: 100%;
+}*/
+
+.thumbnail{
+	padding: 0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+#delete-form-button{
+	display: inline;
+}
+
+#thumbnail-home img{
+	border-radius: 100%;
+  	height: 98px;
+  	width: 137px;
+  	border: solid 1px #cccccc;
+}
